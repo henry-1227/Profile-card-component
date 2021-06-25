@@ -1,0 +1,11 @@
+ main {
+     padding: 100px 500px;
+ }
+ .card {
+     width: 400px;
+     height: 450px;
+ }
+ .card__part2 span {
+     left: 650px;
+     top: 185px;
+ }
